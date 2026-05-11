@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+dist
+.env
+.env*.local
+data/*.sqlite
+data/*.sqlite-journal
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store

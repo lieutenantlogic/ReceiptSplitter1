@@ -57,4 +57,4 @@ OCR quality depends on receipt image clarity. The parser includes a conservative
 =======
 # ReceiptSplitter1
 Snap a photo of a receipt and split the bill in seconds. This app pulls out items automatically, lets you assign them to friends, and shows exactly who owes what, no more awkward math at the table.
->>>>>>> 399e72c63bfc219cdde37b11ea76489f0da6513d
+>>>>>>> 

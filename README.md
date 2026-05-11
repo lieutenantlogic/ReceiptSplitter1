@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Receipt Splitter
 
 A modern full-stack MVP for splitting restaurant receipts from an uploaded photo. It uses Next.js, TypeScript, Tailwind CSS, Node API routes, Tesseract OCR, and SQLite persisted through `sql.js`.
@@ -53,3 +54,7 @@ npm run db:seed
 ## Notes
 
 OCR quality depends on receipt image clarity. The parser includes a conservative cleanup pass for common restaurant receipt formats, and the split editor keeps every extracted item editable so users can correct messy scans quickly.
+=======
+# ReceiptSplitter1
+Snap a photo of a receipt and split the bill in seconds. This app pulls out items automatically, lets you assign them to friends, and shows exactly who owes what, no more awkward math at the table.
+>>>>>>> 399e72c63bfc219cdde37b11ea76489f0da6513d

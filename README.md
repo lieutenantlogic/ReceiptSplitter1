@@ -30,6 +30,12 @@ The `dev` script seeds the local SQLite database if it is empty, then starts Nex
 ## Demo
 
 <img width="1920" height="910" alt="gif2" src="https://github.com/user-attachments/assets/e543ebd4-bf97-4258-be2c-9823777bfd92" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/e7c465d2-8637-4570-9011-a18d8c2926a2" />
+<img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/6d818ffc-27d6-43a2-9971-14eadef664af" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/91a8888c-587d-40b9-805a-f1d9e1062146" />
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/766230e8-0947-4dc1-a6a3-127d63476d8c" />
+
+
 
 
 

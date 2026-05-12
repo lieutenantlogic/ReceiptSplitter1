@@ -23,7 +23,7 @@ cp .env.example .env.local
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+
 
 The `dev` script seeds the local SQLite database if it is empty, then starts Next.js. The database file is created at `./data/receipt-splitter.sqlite` unless `DATABASE_PATH` is changed.
 

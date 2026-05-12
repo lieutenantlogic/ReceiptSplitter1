@@ -27,6 +27,12 @@ Open [http://localhost:3000](http://localhost:3000).
 
 The `dev` script seeds the local SQLite database if it is empty, then starts Next.js. The database file is created at `./data/receipt-splitter.sqlite` unless `DATABASE_PATH` is changed.
 
+## Demo
+
+<img width="1920" height="910" alt="gif2" src="https://github.com/user-attachments/assets/e543ebd4-bf97-4258-be2c-9823777bfd92" />
+
+
+
 ## Environment
 
 ```bash
